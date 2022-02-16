@@ -1,4 +1,4 @@
-package org.europa.together.chapter04;
+package com.ninoscompany.app;
 
 import java.util.stream.Stream;
 import static org.junit.jupiter.api.Assertions.*;
